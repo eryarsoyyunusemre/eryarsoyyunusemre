@@ -17,9 +17,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" widht="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" widht="25" height="25">
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yemre41&show_icons=true&locale=en&layout=compact" alt="yemre41" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yemre41&" alt="yemre41" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yemre41&show_icons=true&locale=en&layout=compact" alt="yemre41" />
+<&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yemre41&show_icons=true&locale=en" alt="yemre41" /></p>
+
 
