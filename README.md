@@ -19,7 +19,11 @@
 
 <p><&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yemre41&show_icons=true&locale=en" alt="yemre41" /></p>
 <p align="left">
+  <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yemre41&show_icons=true&locale=en&layout=compact" alt="yemre41" /></p>
 </p>
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yemre41&show_icons=true&locale=en&layout=compact" alt="yemre41" /></p>
+<p align="right">
+  <p><&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yemre41&show_icons=true&locale=en" alt="yemre41" /></p>
+ </p>
+
 
 
