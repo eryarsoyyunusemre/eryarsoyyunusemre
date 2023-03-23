@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" align="right" width="400" height="250"> 
 
 <h1 align="center">Hi 👋, I'm Yunus Emre Eryarsoy</h1>
-<h3 align="center">Computer Enginner Student</h3>
+<h3 align="center">Computer Engineer Student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
