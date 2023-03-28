@@ -15,12 +15,10 @@
 
 
 <p align="left">
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yee-dev-web
-&show_icons=true&locale=en&layout=compact" alt="yee-web-dev" /></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yee-dev-web&show_icons=true&locale=en&layout=compact" alt="yee-web-dev" /></p>
 </p>
 <p align="right">
-<p><&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yee-dev-web
-&show_icons=true&locale=en" alt="yee-web-dev" /></p>
+<p><&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yee-dev-web&show_icons=true&locale=en" alt="yee-web-dev" /></p>
 </p>
 
 
