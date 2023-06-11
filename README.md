@@ -1,7 +1,6 @@
 <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" align="right" width="400" height="250"> 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=yee-dev-web&label=Profile%20Views&pretty=false" />
-</a>
+
+
 
 <h1 align="center">Hi 👋, I'm Yunus Emre Eryarsoy</h1>
 <h3 align="center">Computer Engineer Student</h3>
@@ -30,6 +29,8 @@
 
 
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=yee-dev-web&label=Profile%20Views&pretty=false" />
+</a>
 
 
