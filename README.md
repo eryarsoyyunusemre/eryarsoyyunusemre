@@ -23,10 +23,10 @@
 
 
 <p align="left">
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yee-dev-web&show_icons=true&locale=en&layout=compact" alt="yunusemreeryarsoy" /></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunusemreeryarsoy&show_icons=true&locale=en&layout=compact" alt="yunusemreeryarsoy" /></p>
 </p>
 <p align="right">
-<p><&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yee-dev-web&show_icons=true&locale=en" alt="yunusemreeryarosy" /></p>
+<p><&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunusemreeryarsoy&show_icons=true&locale=en" alt="yunusemreeryarosy" /></p>
 </p>
 
 
