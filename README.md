@@ -31,8 +31,4 @@
 
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=yee-dev-web&label=Profile%20Views&pretty=false" />
-</a>
-
 
