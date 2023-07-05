@@ -24,15 +24,14 @@
 ---
 <br>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yunusemreeryarsoy&show_icons=true&theme=tokyonight" alt="Github stats" style="margin-right: 20px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=yunusemreeryarsoy&theme=tokyonight" alt="GitHub Streak" style="margin-left: 20px;">
+</p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yunusemreeryarsoy&show_icons=true&theme=tokyonight)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemreeryarsoy&hide=html,css&theme=tokyonight)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunusemreeryarsoy&theme=tokyonight)
-
-</div>
 
 
 
