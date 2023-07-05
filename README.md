@@ -21,13 +21,18 @@
 </p>
 
 
+---
+<br>
 
-<p align="left">
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunusemreeryarsoy&show_icons=true&locale=en&layout=compact" alt="yunusemreeryarsoy" /></p>
-</p>
-<p align="right">
-<p><&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunusemreeryarsoy&show_icons=true&locale=en" alt="yunusemreeryarosy" /></p>
-</p>
+<div align="center">
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yunusemreeryarsoy&show_icons=true&theme=tokyonight)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemreeryarsoy&hide=html,css&theme=tokyonight)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunusemreeryarsoy&theme=tokyonight)
+
+</div>
 
 
 
