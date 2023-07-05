@@ -26,7 +26,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yunusemreeryarsoy&show_icons=true&theme=tokyonight" alt="Github stats" style="margin-right: 20px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="http://github-readme-streak-stats.herokuapp.com?user=yunusemreeryarsoy&theme=tokyonight" alt="GitHub Streak" style="margin-left: 20px;">
 </p>
 
