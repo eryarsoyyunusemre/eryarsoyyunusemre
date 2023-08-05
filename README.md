@@ -37,5 +37,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
 
 </p>
-
+<img src="https://raw.githubusercontent.com/yunusemreeryarsoy/yunusemreeryarsoy/output/snake.svg" alt="Snake animation" />
 
